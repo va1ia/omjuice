@@ -47,15 +47,15 @@
         "caption_WdEdxa": {
           "type": "caption",
           "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
+            "caption": "At OM Juice Bar, we believe in the power of fresh, wholesome ingredients to nourish the body and uplift the spirit. Our mission is to create delicious, nutrient-packed beverages that not only taste great but also support your wellness journey.",
+            "text_style": "subtitle",
             "text_size": "medium"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Shop all",
+            "button_label": "Shop Now",
             "button_link": "shopify://collections/all",
             "button_style_secondary": false
           }
@@ -72,7 +72,7 @@
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "section_color_scheme": "scheme-1",
         "color_scheme": "scheme-1",
@@ -85,7 +85,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "OUR BESTSELLERS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -116,21 +116,21 @@
         "heading_Ahf8XP": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "WE HAVE PARTNERED WITH MORE THAN 500 BRANDS",
+            "heading_size": "h2"
           }
         },
-        "text_dg6Q4k": {
+        "text_Wnj6E3": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>___________</p>",
             "text_style": "body"
           }
         },
         "button_CzNn9t": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "COLLABORATE WITH US",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -138,17 +138,18 @@
       },
       "block_order": [
         "heading_Ahf8XP",
-        "text_dg6Q4k",
+        "text_Wnj6E3",
         "button_CzNn9t"
       ],
       "settings": {
+        "image": "shopify://shop_images/5.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "section_color_scheme": "scheme-2",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
@@ -162,6 +163,7 @@
         "column_RmwTUy": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/10.jpg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
@@ -203,7 +205,7 @@
         "column_Kq6ied"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "OUR OFFERINGS",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -222,8 +224,8 @@
     "featured_collection_KYBh7x": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
-        "heading_size": "h1",
+        "title": "OUR SEASONAL FAVORITE REFRESHMENTS",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -253,21 +255,14 @@
         "heading_z8hKqY": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "PACKAGES(SAVE ON BULK ORDERS)",
             "heading_size": "h1"
-          }
-        },
-        "text_8CgzRp": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_style": "body"
           }
         },
         "button_zm4BzB": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "CLICK to contact us",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -275,7 +270,6 @@
       },
       "block_order": [
         "heading_z8hKqY",
-        "text_8CgzRp",
         "button_zm4BzB"
       ],
       "settings": {
@@ -299,21 +293,29 @@
         "heading_rRHHzW": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "OFFICE subscription",
             "heading_size": "h1"
           }
         },
         "text_Dxcpw8": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_style": "body"
+            "text": "<p>Support employee health with our customizable group subscription options designed for offices fostering a culture of wellness and well-being.</p>",
+            "text_style": "subtitle"
+          }
+        },
+        "caption_JF8wGb": {
+          "type": "caption",
+          "settings": {
+            "caption": "Office subscriptions require a minimum of 6 months.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         },
         "button_HCXfbQ": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Contact us now",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -322,9 +324,11 @@
       "block_order": [
         "heading_rRHHzW",
         "text_Dxcpw8",
+        "caption_JF8wGb",
         "button_HCXfbQ"
       ],
       "settings": {
+        "image": "shopify://shop_images/3.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
