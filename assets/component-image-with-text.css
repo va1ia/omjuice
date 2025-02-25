@@ -362,6 +362,7 @@
 
 .image-with-text__content .image-with-text__text + .button {
   margin-top: 0;
+  font-weight: 400;
 }
 
 .image-with-text__heading {
