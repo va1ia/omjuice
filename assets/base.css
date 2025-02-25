@@ -3618,6 +3618,19 @@ details-disclosure > details {
   }
 }
 
-.custom-border {
-  margin-top: 100px;
+.custom-green-heading {
+  color: green;
+}
+
+.custom-green-heading::before {
+  content: "PACKAGES";
+  color: green;
+  font-weight: bold;
+}
+
+.custom-green-heading::after {
+  content: "\A(SAVE ON BULK ORDERS)";
+  white-space: pre;
+  display: block;
+  color: black;
 }
