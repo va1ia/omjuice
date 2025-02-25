@@ -79,6 +79,7 @@
     linear-gradient(rgba(var(--color-foreground), 0.04), rgba(var(--color-foreground), 0.04));
   position: relative;
   overflow: hidden;
+  border: 1.5px solid var(--grey);
 }
 
 .multicolumn-list h3 {
