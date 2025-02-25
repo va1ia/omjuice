@@ -1,3 +1,15 @@
+@font-face {
+  font-family: title;
+  src: url(HelveticaNeueLTProMdEx.woff);
+  font-weight: medium;
+}
+
+@font-face {
+  font-family: title;
+  src: url(HelveticaNeueLTProBdEx.woff);
+  font-weight: bold;
+}
+
 :root {
   --alpha-button-background: 1;
   --alpha-button-border: 1;
