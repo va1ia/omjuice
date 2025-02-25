@@ -1,8 +1,6 @@
 .multicolumn .title {
   margin: 0;
   font-family: title;
-  position: relative;
-  z-index: 2;
 }
 
 .multicolumn.no-heading .title {
@@ -157,6 +155,8 @@
 
 .multicolumn-card__info {
   padding: 2.5rem;
+  position: relative;
+  z-index: 2;
 }
 
 .background-none .multicolumn-card__info {
