@@ -23,7 +23,7 @@
         "text_h4eMmR"
       ],
       "custom_css": [
-        ".content-container--full-width {border: none;}"
+        ".content-container--full-width {border: none; font-family: title; font-weight: bold;}"
       ],
       "settings": {
         "desktop_content_position": "left",
