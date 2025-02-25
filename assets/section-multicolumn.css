@@ -77,6 +77,7 @@
   background: rgb(var(--color-background))
     linear-gradient(rgba(var(--color-foreground), 0.04), rgba(var(--color-foreground), 0.04));
   position: relative;
+  overflow: hidden;
 }
 
 .multicolumn-list h3 {
@@ -94,6 +95,7 @@
   margin-right: 0;
   position: absolute;
   width: 100%;
+  opacity: 0.3;
 }
 
 .multicolumn-card__info > :nth-child(2) {
