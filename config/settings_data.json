@@ -398,7 +398,8 @@
       ":root {--grey: #707070;}",
       ".button {border: 1.5px solid #020912; text-transform: uppercase;}",
       ".link {text-transform: uppercase;}",
-      "h2,.h2 {letter-spacing: -0.5px; font-family: neue; font-weight: medium;}"
+      "h2,.h2 {letter-spacing: -0.5px; font-family: neue; font-weight: medium;}",
+      "h3, .h3 {font-family: title;}"
     ]
   }
 }
