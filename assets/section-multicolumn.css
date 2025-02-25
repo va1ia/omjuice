@@ -76,6 +76,7 @@
 .multicolumn.background-primary .multicolumn-card {
   background: rgb(var(--color-background))
     linear-gradient(rgba(var(--color-foreground), 0.04), rgba(var(--color-foreground), 0.04));
+  position: relative;
 }
 
 .multicolumn-list h3 {
@@ -88,9 +89,11 @@
 }
 
 .multicolumn-card-spacing {
-  padding-top: 2.5rem;
-  margin-left: 2.5rem;
-  margin-right: 2.5rem;
+  padding-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  position: absolute;
+  width: 100%;
 }
 
 .multicolumn-card__info > :nth-child(2) {
