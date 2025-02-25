@@ -149,9 +149,7 @@
         "text_Wnj6E3",
         "button_CzNn9t"
       ],
-      "custom_css": [
-        ".section-template--18492307243205__image_with_text_A4pDCi-padding {border-top: 1.5px solid var(--grey) !important;}"
-      ],
+      "custom_css": [],
       "settings": {
         "image": "shopify://shop_images/5.jpg",
         "height": "adapt",
