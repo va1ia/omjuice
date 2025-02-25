@@ -399,7 +399,8 @@
       ".button {border: 1.5px solid #020912; text-transform: uppercase;}",
       ".link {text-transform: uppercase;}",
       "h2,.h2 {letter-spacing: -0.5px; font-family: neue; font-weight: medium;}",
-      "h3,.h3 {font-family: title !important;}"
+      "h3,.h3 {font-family: title !important;}",
+      ".section-template--18492307243205__image_with_text_A4pDCi-padding {border-top: 1.5px solid var(--grey); border-bottom: 1.5px solid var(--grey);}"
     ]
   }
 }
