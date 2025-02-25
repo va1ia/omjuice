@@ -172,8 +172,18 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/10.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "title": "<strong>JUICE DELIVERY</strong>",
+            "text": "<p><strong>Fresh juices delivered to your office once or twice a week.</strong></p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zMawbr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/11.jpg",
+            "title": "<strong>POP-UP GATHERINGS</strong>",
+            "text": "<p><strong>Engaging events or on-site catering for memorable celebrations.</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -181,26 +191,19 @@
         "column_9JC3rM": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/13.jpg",
+            "title": "<strong>CO-BRANDED PARTNERSHIPS</strong>",
+            "text": "<p><strong>Collaborate with us to create unique juice offerings or co-host events that align with your brand values.</strong></p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column_Y7Qq8r": {
+        "column_qJeinB": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Kq6ied": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "image": "shopify://shop_images/12.jpg",
+            "title": "<strong>RETAIL PARTNERSHIPS</strong>",
+            "text": "<p><strong>Sell our juices in your New York City store.</strong></p>",
             "link_label": "",
             "link": ""
           }
@@ -208,9 +211,9 @@
       },
       "block_order": [
         "column_RmwTUy",
+        "column_zMawbr",
         "column_9JC3rM",
-        "column_Y7Qq8r",
-        "column_Kq6ied"
+        "column_qJeinB"
       ],
       "settings": {
         "title": "OUR OFFERINGS",
@@ -220,7 +223,7 @@
         "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
