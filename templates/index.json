@@ -9,6 +9,48 @@
  */
 {
   "sections": {
+    "rich_text_wEW7aA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KCgNdt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_h4eMmR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_EUyKnH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_KCgNdt",
+        "text_h4eMmR",
+        "button_EUyKnH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
@@ -17,6 +59,14 @@
           "settings": {
             "heading": "Our latest",
             "heading_size": "h0"
+          }
+        },
+        "caption_WdEdxa": {
+          "type": "caption",
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         },
         "button": {
@@ -30,10 +80,12 @@
       },
       "block_order": [
         "heading",
+        "caption_WdEdxa",
         "button"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify://shop_images/1.jpg",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
@@ -306,6 +358,7 @@
     }
   },
   "order": [
+    "rich_text_wEW7aA",
     "image-with-text",
     "featured_collection",
     "image_with_text_A4pDCi",
