@@ -1,6 +1,8 @@
 .multicolumn .title {
   margin: 0;
   font-family: title;
+  position: relative;
+  z-index: 2;
 }
 
 .multicolumn.no-heading .title {
