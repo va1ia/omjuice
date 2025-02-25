@@ -96,7 +96,6 @@
   position: absolute;
   width: 100%;
   opacity: 0.3;
-  z-index: -1;
 }
 
 .multicolumn-card__info > :nth-child(2) {
