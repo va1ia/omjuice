@@ -1,19 +1,61 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
+    "rich_text_wEW7aA": {
+      "type": "rich-text",
+      "blocks": {
+        "text_h4eMmR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ORGANIC VEGAN JUICE BAR</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_h4eMmR"
+      ],
+      "custom_css": [
+        ".content-container--full-width {border: none;}"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Our latest",
-            "heading_size": "h0"
+            "heading": "MINDFULLY DELICIOUS",
+            "heading_size": "h2"
+          }
+        },
+        "caption_WdEdxa": {
+          "type": "caption",
+          "settings": {
+            "caption": "At OM Juice Bar, we believe in the power of fresh, wholesome ingredients to nourish the body and uplift the spirit. Our mission is to create delicious, nutrient-packed beverages that not only taste great but also support your wellness journey.",
+            "text_style": "subtitle",
+            "text_size": "medium"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Shop all",
+            "button_label": "Shop Now",
             "button_link": "shopify://collections/all",
             "button_style_secondary": false
           }
@@ -21,14 +63,16 @@
       },
       "block_order": [
         "heading",
+        "caption_WdEdxa",
         "button"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify://shop_images/1.jpg",
+        "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "section_color_scheme": "scheme-1",
         "color_scheme": "scheme-1",
@@ -41,7 +85,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "OUR BESTSELLERS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -65,10 +109,249 @@
         "padding_top": 32,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_A4pDCi": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Ahf8XP": {
+          "type": "heading",
+          "settings": {
+            "heading": "WE HAVE PARTNERED WITH MORE THAN 500 BRANDS",
+            "heading_size": "h2"
+          }
+        },
+        "text_Wnj6E3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>___________</p>",
+            "text_style": "body"
+          }
+        },
+        "button_CzNn9t": {
+          "type": "button",
+          "settings": {
+            "button_label": "COLLABORATE WITH US",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ahf8XP",
+        "text_Wnj6E3",
+        "button_CzNn9t"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/5.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-3",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_biPUMj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_RmwTUy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/10.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9JC3rM": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Y7Qq8r": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Kq6ied": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_RmwTUy",
+        "column_9JC3rM",
+        "column_Y7Qq8r",
+        "column_Kq6ied"
+      ],
+      "settings": {
+        "title": "OUR OFFERINGS",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_KYBh7x": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "OUR SEASONAL FAVORITE REFRESHMENTS",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_AeA7FR": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_z8hKqY": {
+          "type": "heading",
+          "settings": {
+            "heading": "PACKAGES(SAVE ON BULK ORDERS)",
+            "heading_size": "h1"
+          }
+        },
+        "button_zm4BzB": {
+          "type": "button",
+          "settings": {
+            "button_label": "CLICK to contact us",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_z8hKqY",
+        "button_zm4BzB"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_pDRc4w": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_rRHHzW": {
+          "type": "heading",
+          "settings": {
+            "heading": "OFFICE subscription",
+            "heading_size": "h1"
+          }
+        },
+        "text_Dxcpw8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Support employee health with our customizable group subscription options designed for offices fostering a culture of wellness and well-being.</p>",
+            "text_style": "subtitle"
+          }
+        },
+        "caption_JF8wGb": {
+          "type": "caption",
+          "settings": {
+            "caption": "Office subscriptions require a minimum of 6 months.",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "button_HCXfbQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact us now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rRHHzW",
+        "text_Dxcpw8",
+        "caption_JF8wGb",
+        "button_HCXfbQ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/3.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
+    "rich_text_wEW7aA",
     "image-with-text",
-    "featured_collection"
+    "featured_collection",
+    "image_with_text_A4pDCi",
+    "multicolumn_biPUMj",
+    "featured_collection_KYBh7x",
+    "image_with_text_AeA7FR",
+    "image_with_text_pDRc4w"
   ]
 }
