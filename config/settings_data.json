@@ -395,7 +395,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".button {border: 1.5px solid #020912;}"
+      ".button {border: 1.5px solid #020912;}",
+      ".link {text-transform: uppercase;}"
     ]
   }
 }
