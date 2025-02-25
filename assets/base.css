@@ -3054,6 +3054,7 @@ details-disclosure > details {
 .global-media-settings video,
 .global-media-settings .placeholder-svg {
   border-radius: calc(var(--media-radius) - var(--media-border-width));
+  border: 1.5px solid var(--grey);
 }
 
 .content-container--full-width,
