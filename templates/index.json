@@ -274,7 +274,7 @@
         "button_zm4BzB": {
           "type": "button",
           "settings": {
-            "button_label": "CLICK to contact us",
+            "button_label": "contact us",
             "button_link": "",
             "button_style_secondary": false
           }
