@@ -10,6 +10,12 @@
   font-weight: bold;
 }
 
+@font-face {
+  font-family: neue;
+  src: url(HelveticaNeueMedium.woff);
+  font-weight: medium;
+}
+
 :root {
   --alpha-button-background: 1;
   --alpha-button-border: 1;
