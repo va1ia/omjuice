@@ -30,7 +30,7 @@
         "content_alignment": "left",
         "color_scheme": "scheme-1",
         "full_width": true,
-        "padding_top": 0,
+        "padding_top": 4,
         "padding_bottom": 0
       }
     },
@@ -52,6 +52,13 @@
             "text_size": "medium"
           }
         },
+        "text_tHYEiY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>____________</p>",
+            "text_style": "body"
+          }
+        },
         "button": {
           "type": "button",
           "settings": {
@@ -64,6 +71,7 @@
       "block_order": [
         "heading",
         "caption_WdEdxa",
+        "text_tHYEiY",
         "button"
       ],
       "settings": {
