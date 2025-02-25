@@ -154,7 +154,7 @@
 
 .multicolumn-card__info {
   padding: 2.5rem;
-  background: none;
+  background-color: none;
 }
 
 .background-none .multicolumn-card__info {
