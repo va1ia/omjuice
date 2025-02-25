@@ -3617,3 +3617,7 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
+
+.custom-border {
+  margin-top: 100px;
+}
