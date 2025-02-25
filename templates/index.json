@@ -267,8 +267,16 @@
         "heading_z8hKqY": {
           "type": "heading",
           "settings": {
-            "heading": "PACKAGES(SAVE ON BULK ORDERS)",
+            "heading": "PACKAGES",
             "heading_size": "h1"
+          }
+        },
+        "caption_Yqea8y": {
+          "type": "caption",
+          "settings": {
+            "caption": "(SAVE ON BULK ORDERS)",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         },
         "button_zm4BzB": {
@@ -282,6 +290,7 @@
       },
       "block_order": [
         "heading_z8hKqY",
+        "caption_Yqea8y",
         "button_zm4BzB"
       ],
       "settings": {
