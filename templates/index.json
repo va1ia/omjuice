@@ -231,7 +231,7 @@
         ".multicolumn.background-primary .multicolumn-card {border: none; height: 44vh; min-height: 120%;}",
         ".multicolumn-list h3 {line-height: 120%; color: white;}",
         ".multicolumn-card__info > :nth-child(2) {line-height: 130%; font-size: 20px;}",
-        "@media screen and (max-width: 1000px) {.grid--1-col-tablet-down .grid__item {width: 100%; max-width: none; }}"
+        "@media screen and (max-width: 1000px) {.grid--1-col-tablet-down .grid__item {width: 100%; max-width: none; } slider-component {padding: 0 1.5rem; }}"
       ],
       "settings": {
         "title": "OUR OFFERINGS",
