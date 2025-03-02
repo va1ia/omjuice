@@ -37,9 +37,7 @@
         "subtotal",
         "buttons"
       ],
-      "custom_css": [
-        ".cart-item__name {font-family: title;}"
-      ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "scheme-1",
         "padding_top": 20,
