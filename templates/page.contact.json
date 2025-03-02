@@ -15,7 +15,7 @@
         ".h0 {font-family: title;}"
       ],
       "settings": {
-        "padding_top": 20,
+        "padding_top": 32,
         "padding_bottom": 0
       }
     },
@@ -29,7 +29,7 @@
         "heading_size": "h1",
         "color_scheme": "scheme-1",
         "padding_top": 0,
-        "padding_bottom": 80
+        "padding_bottom": 100
       }
     }
   },
