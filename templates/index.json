@@ -318,7 +318,7 @@
         "heading_rRHHzW": {
           "type": "heading",
           "settings": {
-            "heading": "OFFICE subscription",
+            "heading": "OFFICE SUBSCRIPTION",
             "heading_size": "h1"
           }
         },
@@ -333,8 +333,8 @@
           "type": "caption",
           "settings": {
             "caption": "Office subscriptions require a minimum of 6 months.",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
+            "text_style": "subtitle",
+            "text_size": "small"
           }
         },
         "button_HCXfbQ": {
@@ -353,7 +353,7 @@
         "button_HCXfbQ"
       ],
       "custom_css": [
-        ".image-with-text__heading {color: #A24F3F;}"
+        ".image-with-text__heading {color: #a24f3f;}"
       ],
       "settings": {
         "image": "shopify://shop_images/3.jpg",
