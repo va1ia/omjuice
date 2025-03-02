@@ -3617,7 +3617,3 @@ details-disclosure > details {
     transform: translateX(100%) scaleX(0);
   }
 }
-
-.green {
-  color: #406A2E;
-}
