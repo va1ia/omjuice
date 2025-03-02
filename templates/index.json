@@ -221,7 +221,10 @@
       ],
       "custom_css": [
         ".grid {column-gap: 0;}",
-        ".grid--4-col-desktop .grid__item {width: 25%; max-width: 25%;}"
+        ".grid--4-col-desktop .grid__item {width: 25%; max-width: 25%;}",
+        ".multicolumn.background-primary .multicolumn-card {border: none;}",
+        ".multicolumn-list h3 {line-height: 120%; color: white;}",
+        ".multicolumn-card__info>:nth-child(2) {line-height: 135%; font-size: 20px;}"
       ],
       "settings": {
         "title": "OUR OFFERINGS",
