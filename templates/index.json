@@ -228,7 +228,7 @@
       "custom_css": [
         ".grid {column-gap: 0;}",
         ".grid--4-col-desktop .grid__item {width: 25%; max-width: 25%;}",
-        ".multicolumn.background-primary .multicolumn-card {border: none; height: 44vh;}",
+        ".multicolumn.background-primary .multicolumn-card {border: none; height: 44vh; min-height: 120%;}",
         ".multicolumn-list h3 {line-height: 120%; color: white;}",
         ".multicolumn-card__info > :nth-child(2) {line-height: 130%; font-size: 20px;}"
       ],
@@ -375,7 +375,8 @@
       ],
       "custom_css": [
         ".image-with-text__heading {color: #a24f3f;}",
-        ".button {padding: 5px 3rem 0 3rem;}"
+        ".button {padding: 5px 3rem 0 3rem;}",
+        ".rte>*:first-child {font-family:\"Helvetica\";}"
       ],
       "settings": {
         "image": "shopify://shop_images/3.jpg",
