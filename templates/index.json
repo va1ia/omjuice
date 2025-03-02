@@ -293,6 +293,9 @@
         "caption_Yqea8y",
         "button_zm4BzB"
       ],
+      "custom_css": [
+        ".image-with-text__heading {color: #406A2E;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/kiwi.png",
         "height": "adapt",
