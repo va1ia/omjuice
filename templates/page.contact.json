@@ -21,9 +21,7 @@
     },
     "form": {
       "type": "contact-form",
-      "custom_css": [
-        ".button {padding: 0 3rem;}"
-      ],
+      "custom_css": [],
       "settings": {
         "heading": "",
         "heading_size": "h1",
