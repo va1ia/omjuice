@@ -219,6 +219,10 @@
         "column_9JC3rM",
         "column_qJeinB"
       ],
+      "custom_css": [
+        ".grid {column-gap: 0;}",
+        ".grid--4-col-desktop .grid__item {width: 25%; max-width: 25%;}"
+      ],
       "settings": {
         "title": "OUR OFFERINGS",
         "heading_size": "h1",
