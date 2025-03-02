@@ -251,6 +251,9 @@
     },
     "featured_collection_KYBh7x": {
       "type": "featured-collection",
+      "custom_css": [
+        "slider-component {padding: 0 3rem;}"
+      ],
       "settings": {
         "title": "OUR SEASONAL FAVORITE REFRESHMENTS",
         "heading_size": "h2",
