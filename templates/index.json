@@ -74,6 +74,9 @@
         "text_tHYEiY",
         "button"
       ],
+      "custom_css": [
+        ".image-with-text__text--caption {font-family: \"Helvetica\"; font-weight: 400;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/1.jpg",
         "height": "large",
