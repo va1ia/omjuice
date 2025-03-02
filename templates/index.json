@@ -294,7 +294,7 @@
         "button_zm4BzB"
       ],
       "custom_css": [
-        ".image-with-text__heading {color: #406A2E;}"
+        ".image-with-text__heading {color: #406a2e;}"
       ],
       "settings": {
         "image": "shopify://shop_images/kiwi.png",
@@ -351,6 +351,9 @@
         "text_Dxcpw8",
         "caption_JF8wGb",
         "button_HCXfbQ"
+      ],
+      "custom_css": [
+        ".image-with-text__heading {color: #A24F3F;}"
       ],
       "settings": {
         "image": "shopify://shop_images/3.jpg",
