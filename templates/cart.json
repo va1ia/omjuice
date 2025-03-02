@@ -12,7 +12,8 @@
     "cart-items": {
       "type": "main-cart-items",
       "custom_css": [
-        ".is-empty .cart__empty-text,.is-empty .cart__warnings h1 {font-family: title;}"
+        ".is-empty .cart__empty-text,.is-empty .cart__warnings h1 {font-family: title;}",
+        ".title-wrapper-with-link .title {font-family: title;}"
       ],
       "settings": {
         "color_scheme": "scheme-1",
