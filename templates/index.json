@@ -275,7 +275,7 @@
           "type": "caption",
           "settings": {
             "caption": "(SAVE ON BULK ORDERS)",
-            "text_style": "caption-with-letter-spacing",
+            "text_style": "h1",
             "text_size": "medium"
           }
         },
