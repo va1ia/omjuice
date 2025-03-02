@@ -376,7 +376,7 @@
       "custom_css": [
         ".image-with-text__heading {color: #a24f3f;}",
         ".button {padding: 5px 3rem 0 3rem;}",
-        ".rte>*:first-child {font-family:\"Helvetica\";}"
+        ".rte > *:first-child {font-family: \"Helvetica\"; font-size: 20px;}"
       ],
       "settings": {
         "image": "shopify://shop_images/3.jpg",
