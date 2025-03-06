@@ -356,7 +356,7 @@
         "column_G6NYdD": {
           "type": "column",
           "settings": {
-            "title": "Monthly<>$",
+            "title": "Monthly <em>($104)</em>",
             "text": "<p>Includes 2 juices/smoothies per week + 1 food item per month.</p>",
             "link_label": "subscribe now",
             "link": ""
@@ -365,7 +365,7 @@
         "column_xXfj6U": {
           "type": "column",
           "settings": {
-            "title": "6 MONTHS",
+            "title": "6 MONTHS <em>($528)</em>",
             "text": "<p>Includes 2 juices/smoothies per week + 1 food item per month.</p>",
             "link_label": "subscribe now",
             "link": ""
@@ -374,7 +374,7 @@
         "column_GgFF6A": {
           "type": "column",
           "settings": {
-            "title": "ANNUAL",
+            "title": "ANNUAL <em>($960)</em>",
             "text": "<p>Includes 2 juices/smoothies per week + 1 food item per month.</p>",
             "link_label": "subscribe now",
             "link": ""
@@ -383,27 +383,27 @@
         "column_jKPexi": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
+            "title": "Monthly Premium <em>($260)</em>",
+            "text": "<p>Includes 5 juices/smoothies per week.</p>",
+            "link_label": "subscribe now",
             "link": ""
           }
         },
         "column_JddXn3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
+            "title": "6 MONTHS Premium <em>($1320)</em>",
+            "text": "<p>Includes 5 juices/smoothies per week.</p>",
+            "link_label": "subscribe now",
             "link": ""
           }
         },
         "column_WzTiHw": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
+            "title": "ANNUAL Premium <em>($2300)</em>",
+            "text": "<p>Includes 5 juices/smoothies per week.</p>",
+            "link_label": "subscribe now",
             "link": ""
           }
         }
