@@ -383,7 +383,7 @@
     "featured_collection_Wag8nd": {
       "type": "featured-collection",
       "custom_css": [
-        ".grid {margin: 0 3rem;}",
+        ".grid {margin: 0 1.5rem;}",
         ".gradient {background-color: #faf2f2;}"
       ],
       "settings": {
