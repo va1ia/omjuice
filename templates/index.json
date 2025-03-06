@@ -288,40 +288,28 @@
         "heading_RGzjEe": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "SUBSCRIPTION",
             "heading_size": "h1"
           }
         },
         "text_qAT73A": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "button_CEJRQQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Join our membership program for exclusive perks, including discounts on cleanses and juices, special promotions, and early access to new products.</p>"
           }
         }
       },
       "block_order": [
         "heading_RGzjEe",
-        "text_qAT73A",
-        "button_CEJRQQ"
+        "text_qAT73A"
       ],
       "settings": {
-        "desktop_content_position": "center",
+        "desktop_content_position": "left",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 20,
+        "padding_bottom": 0
       }
     },
     "multicolumn_kygNer": {
@@ -361,8 +349,8 @@
         "column_GgFF6A"
       ],
       "settings": {
-        "title": "SUBSCRIPTION",
-        "heading_size": "h1",
+        "title": "",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -373,8 +361,8 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 20,
+        "padding_bottom": 12
       }
     },
     "image_with_text_AeA7FR": {
