@@ -76,7 +76,68 @@
       ],
       "custom_css": [
         ".image-with-text__text--caption {font-family: \"Helvetica\"; font-weight: 400;}",
-        ".button {padding: 5px 3rem 0 3rem;}"
+        ".button {padding: 5px 3rem 0 3rem;}",
+        "@media screen and (max-width: 751px) {{display: none !important; }}"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/1.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "image_with_text_wG3cNT": {
+      "type": "image-with-text",
+      "blocks": {
+        "button_wgc4Nh": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections",
+            "button_style_secondary": false
+          }
+        },
+        "text_L63B6k": {
+          "type": "text",
+          "settings": {
+            "text": "<p>____________</p>",
+            "text_style": "body"
+          }
+        },
+        "heading_WzKbaH": {
+          "type": "heading",
+          "settings": {
+            "heading": "MINDFULLY DELICIOUS",
+            "heading_size": "h1"
+          }
+        },
+        "caption_QKraU4": {
+          "type": "caption",
+          "settings": {
+            "caption": "At OM Juice Bar, we believe in the power of fresh, wholesome ingredients to nourish the body and uplift the spirit. Our mission is to create delicious, nutrient-packed beverages that not only taste great but also support your wellness journey.",
+            "text_style": "subtitle",
+            "text_size": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "button_wgc4Nh",
+        "text_L63B6k",
+        "heading_WzKbaH",
+        "caption_QKraU4"
+      ],
+      "custom_css": [
+        ".image-with-text__text--caption {font-family: \"Helvetica\"; font-weight: 400;}",
+        "@media screen and (min-width: 751px) {{display: none !important; }}"
       ],
       "settings": {
         "image": "shopify://shop_images/1.jpg",
@@ -560,6 +621,7 @@
   "order": [
     "rich_text_wEW7aA",
     "image-with-text",
+    "image_with_text_wG3cNT",
     "featured_collection",
     "image_with_text_A4pDCi",
     "multicolumn_biPUMj",
