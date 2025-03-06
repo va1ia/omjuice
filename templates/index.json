@@ -306,7 +306,7 @@
       "custom_css": [
         ".rich-text {border: none;}",
         ".h1 {font-family: title; text-align: left; color: #623489;}",
-        ".rte > *:last-child {text-align: left; font-family: neue; font-size: 26px; line-height: 120%;}"
+        ".rte > *:last-child {text-align: left; font-family: neue; font-size: 26px; line-height: 125%;}"
       ],
       "settings": {
         "desktop_content_position": "left",
