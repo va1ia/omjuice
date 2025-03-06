@@ -3,7 +3,7 @@
 }
 
 .footer:not(.color-scheme-1) {
-  border-top: none;
+  border-top: 1.5px solid var(--grey);
 }
 
 .footer__content-top {
