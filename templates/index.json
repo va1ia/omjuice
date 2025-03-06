@@ -137,7 +137,7 @@
       ],
       "custom_css": [
         ".image-with-text__text--caption {font-family: \"Helvetica\"; font-weight: 400;}",
-        ".image-with-text__content .button+.image-with-text__text {margin-top: 0; margin-bottom: 22px;}",
+        ".image-with-text__content .button + .image-with-text__text {margin-top: 0; margin-bottom: 22px;}",
         "@media screen and (min-width: 751px) {{display: none !important; }}"
       ],
       "settings": {
@@ -400,7 +400,7 @@
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
