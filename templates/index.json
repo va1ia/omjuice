@@ -137,6 +137,7 @@
       ],
       "custom_css": [
         ".image-with-text__text--caption {font-family: \"Helvetica\"; font-weight: 400;}",
+        ".image-with-text__content .button+.image-with-text__text {margin-top: 0; margin-bottom: 22px;}",
         "@media screen and (min-width: 751px) {{display: none !important; }}"
       ],
       "settings": {
