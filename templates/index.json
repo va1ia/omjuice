@@ -319,6 +319,9 @@
     },
     "featured_collection_Wag8nd": {
       "type": "featured-collection",
+      "custom_css": [
+        ".grid {margin: 0 3rem;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
