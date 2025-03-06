@@ -307,7 +307,7 @@
         ".rich-text {border: none;}",
         ".h1 {font-family: title; text-align: left; color: #623489; padding-top: 28px;}",
         ".rte > *:last-child {text-align: left; font-family: neue; font-size: 26px; line-height: 125%;}",
-        ".rich-text__wrapper--left {background-color: #faf2f2;}"
+        ".content-container--full-width {background-color: #faf2f2;}"
       ],
       "settings": {
         "desktop_content_position": "left",
@@ -321,7 +321,8 @@
     "featured_collection_Wag8nd": {
       "type": "featured-collection",
       "custom_css": [
-        ".grid {margin: 0 3rem;}"
+        ".grid {margin: 0 3rem;}",
+        ".gradient {background-color: #faf2f2;}"
       ],
       "settings": {
         "title": "",
@@ -384,6 +385,9 @@
         "column_G6NYdD",
         "column_xXfj6U",
         "column_GgFF6A"
+      ],
+      "custom_css": [
+        ".gradient {background-color: #faf2f2;}"
       ],
       "settings": {
         "title": "",
