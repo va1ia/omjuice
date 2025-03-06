@@ -417,7 +417,11 @@
         "column_WzTiHw"
       ],
       "custom_css": [
-        ".gradient {background-color: #faf2f2;}"
+        ".gradient {background-color: #faf2f2;}",
+        "h3 {font-size: 25px; color: #623489;}",
+        ".multicolumn-card__info .link {font-size: 12px;}",
+        ".multicolumn.background-primary .multicolumn-card {background: none; border: none;}",
+        " .multicolumn-card__info>:nth-child(2) {margin-top: -8px; line-height: 140%; }"
       ],
       "settings": {
         "title": "",
