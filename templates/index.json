@@ -90,7 +90,7 @@
         "color_scheme": "scheme-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
-        "padding_top": 12,
+        "padding_top": 32,
         "padding_bottom": 32
       }
     },
@@ -121,8 +121,8 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 32,
-        "padding_bottom": 36
+        "padding_top": 52,
+        "padding_bottom": 56
       }
     },
     "image_with_text_A4pDCi": {
@@ -278,8 +278,8 @@
         "quick_add": "none",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 56,
+        "padding_bottom": 56
       }
     },
     "rich_text_qejnFt": {
