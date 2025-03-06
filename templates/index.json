@@ -317,15 +317,43 @@
         "padding_bottom": 0
       }
     },
+    "featured_collection_Wag8nd": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_kygNer": {
       "type": "multicolumn",
       "blocks": {
         "column_G6NYdD": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
+            "title": "Monthly",
+            "text": "<p>Includes 2 juices/smoothies per week + 1 food item per month.</p>",
+            "link_label": "subscribe now",
             "link": ""
           }
         },
@@ -495,6 +523,7 @@
     "multicolumn_biPUMj",
     "featured_collection_KYBh7x",
     "rich_text_qejnFt",
+    "featured_collection_Wag8nd",
     "multicolumn_kygNer",
     "image_with_text_AeA7FR",
     "image_with_text_pDRc4w"
