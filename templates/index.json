@@ -167,7 +167,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "juice",
+        "collection": "bestsellers",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -324,7 +324,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "cleanses",
+        "collection": "seasonal-favorite-refreshments",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -392,7 +392,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "frontpage",
+        "collection": "standard-membership-plans",
         "products_to_show": 3,
         "columns_desktop": 3,
         "full_width": false,
@@ -409,7 +409,39 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 28
+      }
+    },
+    "featured_collection_xwQfRa": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".grid {margin: 0 1.5rem;}",
+        ".gradient {background-color: #faf2f2;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "premium-membership-plans",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 40
       }
     },
     "multicolumn_kygNer": {
@@ -478,6 +510,7 @@
         "column_JddXn3",
         "column_WzTiHw"
       ],
+      "disabled": true,
       "custom_css": [
         ".gradient {background-color: #faf2f2;}",
         "h3 {font-size: 25px; color: #623489;}",
@@ -629,6 +662,7 @@
     "featured_collection_KYBh7x",
     "rich_text_qejnFt",
     "featured_collection_Wag8nd",
+    "featured_collection_xwQfRa",
     "multicolumn_kygNer",
     "image_with_text_AeA7FR",
     "image_with_text_pDRc4w"
