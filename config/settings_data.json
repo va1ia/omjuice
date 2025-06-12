@@ -144,9 +144,14 @@
     },
     "content_for_index": [],
     "blocks": {
+      "10042746950867549768": {
+        "type": "shopify://apps/hulk-product-options/blocks/app-embed/380168ef-9475-4244-a291-f66b189208b5",
+        "disabled": false,
+        "settings": {}
+      },
       "7916451724185839711": {
         "type": "shopify://apps/avis-product-options/blocks/avisplus-product-options/e076618e-4c9c-447f-ad6d-4f1577799c29",
-        "disabled": false,
+        "disabled": true,
         "settings": {}
       }
     },
