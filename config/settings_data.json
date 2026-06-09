@@ -153,6 +153,101 @@
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {}
+      },
+      "4067984192778377217": {
+        "type": "shopify://apps/getcho/blocks/delivery_picker/019bc875-6e97-7ae6-9936-32826d137537",
+        "disabled": false,
+        "settings": {
+          "description_text": "",
+          "checkout_button_text": "Checkout",
+          "show_cart_total": true,
+          "show_keep_shopping_button": true,
+          "keep_shopping_button_text": "Keep Shopping",
+          "id_notice_text": "",
+          "fedex_text": "",
+          "allow_out_of_zone_checkout": false,
+          "unknown_zip_text": "We don't deliver to this zip code.",
+          "delivery_zones_url": "",
+          "pickup_address": "",
+          "require_zip_before_checkout": false,
+          "remember_preferences": false,
+          "min_days_from_today": 0,
+          "max_days_out": 14,
+          "show_asap": true,
+          "lead_time_minutes": 60,
+          "show_receiver": true,
+          "show_delivery_notes": true,
+          "show_order_instructions": false,
+          "show_substitutions": false,
+          "substitutions_options": "Allow substitutions\nDo not substitute\nContact me first",
+          "primary_color": "#000000",
+          "text_color": "#333333",
+          "card_background_color": "#ffffff",
+          "input_background_color": "#ffffff",
+          "border_color": "#e5e5e5",
+          "alignment": "left",
+          "margin_top": 0,
+          "max_width": 420,
+          "font_size": 13,
+          "border_radius": 8
+        }
+      },
+      "10280838536583102783": {
+        "type": "shopify://apps/getcho/blocks/date_picker_with_time/019bc875-6e97-7ae6-9936-32826d137537",
+        "disabled": false,
+        "settings": {
+          "header_text": "Select a Time Slot",
+          "description_text": "",
+          "checkout_button_text": "Checkout",
+          "min_days_from_today": 1,
+          "max_days_out": 14,
+          "cutoff_hour": "0",
+          "next_day_cutoff_hour": "0",
+          "time_windows": "9:00 AM - 12:00 PM|9\n12:00 PM - 3:00 PM|12\n3:00 PM - 6:00 PM|15",
+          "show_order_instructions": false,
+          "show_delivery_notes": false,
+          "show_substitutions": false,
+          "substitutions_options": "Allow substitutions\nDo not substitute\nContact me first",
+          "primary_color": "#772C10",
+          "text_color": "#333333",
+          "card_background_color": "#ffffff",
+          "input_background_color": "#ffffff",
+          "border_color": "#e5e5e5",
+          "alignment": "left",
+          "margin_top": 0,
+          "max_width": 420,
+          "font_size": 13,
+          "title_font_size": 13,
+          "border_radius": 8
+        }
+      },
+      "12215553388412338944": {
+        "type": "shopify://apps/getcho/blocks/cart_same_day_status/019bc875-6e97-7ae6-9936-32826d137537",
+        "disabled": false,
+        "settings": {
+          "banner_text": "Get same-day delivery",
+          "background_color": "#22c55e",
+          "text_color": "#ffffff",
+          "border_radius": 6,
+          "font_size": 13,
+          "margin_top": 8,
+          "margin_bottom": 12
+        }
+      },
+      "17746309047874952937": {
+        "type": "shopify://apps/getcho/blocks/same_day_badge_embed/019bc875-6e97-7ae6-9936-32826d137537",
+        "disabled": false,
+        "settings": {
+          "badge_text": "Same-Day Delivery Eligible",
+          "help_text": "Same-day delivery will be available at checkout if item is stocked nearby",
+          "position": "after_title",
+          "background_color": "#2563EB",
+          "text_color": "#ffffff",
+          "border_radius": 4,
+          "badge_font_size": 12,
+          "margin_top": 8,
+          "margin_bottom": 8
+        }
       }
     },
     "color_schemes": {
